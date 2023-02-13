@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ActivityRecognizer.iml" filepath="$PROJECT_DIR$/.idea/ActivityRecognizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining and machine learning/project_final/.idea/DataMiningFinale.iml" filepath="$PROJECT_DIR$/../../../data mining and machine learning/project_final/.idea/DataMiningFinale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining and machine learning/gitTest/clone/.idea/DataMiningProjectVERO.iml" filepath="$PROJECT_DIR$/../../../data mining and machine learning/gitTest/clone/.idea/DataMiningProjectVERO.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
